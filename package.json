@@ -1,6 +1,6 @@
 {
   "name": "crazy-translate",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "dist/main.js",
   "bin": {
     "f": "dist/cli.js"
